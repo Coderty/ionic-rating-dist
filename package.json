@@ -1,5 +1,5 @@
 {
-  "name": "ionic-rating",
+  "name": "@coderty/ionic-rating",
   "version": "2.0.0",
   "description": "A simple Ionic 4 stars rating component using Angular, with an easy API and support for all methods of binding (Property and Event Binding, Template Forms and Reactive Forms).",
   "author": "Rodaina Mohamed",
@@ -39,10 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Coderty/ionic-rating"
+    "url": "https://github.com/Coderty/ionic-rating-dist"
   },
   "publishConfig": {
-    "name": "@coderty/ionic-rating",
-    "registry":"https://npm.pkg.github.com/Coderty"
+    "registry":"https://npm.pkg.github.com"
   }
 }
